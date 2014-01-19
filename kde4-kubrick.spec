@@ -4,12 +4,12 @@
 
 Summary:	Kubrick
 Name:		kde4-%{orgname}
-Version:	4.12.0
+Version:	4.12.1
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	da390a29956269f9e24f3185563e1b8e
+# Source0-md5:	4f592d3317f7eb8d39d31fb7ad1eaed7
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
